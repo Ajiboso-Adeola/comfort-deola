@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning web Technology 
 - 🌱 I’m currently learning Html,CSS,Javascript and Python
 - 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me 
+- 📫 How to reach me on gmail: adeolaajiboso@gmail.com twitter: https://twitter.com/dde_olla 
 
 <!---
 comfort-deola/comfort-deola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
